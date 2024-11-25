@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hello👋, I'm Mogamad Shu'aib Isaacs 👋
 
-<!--
-**Mo-aib/Mo-aib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **I’m currently a 2nd Year Computer Science student at Technology University Dublin**  
+🌱 **I’m currently learning about Python, C and Jave**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)  
+- GitHub: [Mo-aib](https://github.com/Mo-aib)
+
+---
+
+## ✨ Experience:
+- 🏎️ **Financial Manager** at TU Dublin ISOC  
+- 🔡 **Workforce Manager(Assistant)** at Amazon  
+- 🔬 **Undergraduate ** for TU Dublin Computer Science  
+
+---
+
+## 🚀 Projects:
+- 🛠️ **PasswordCheck**: A tool for people to test their password's strength.  
+- 🕹️ **Knots and Crosses**: Play a game of X and O's with a computer.  
+- 🌐 **ChatBot**: Learn about MMA with a personal chatboy.  
+- 🚩 **Finance Manager**: Intended to help group manager money in one app.  
+
+---
+
+## 👨🏻‍💻 Languages and Tools:
+- **Programming Languages**: Python, Java, C, JavaScript, SQL  
+- **Frameworks**: Django  
+- **Tools**: GitHub, Git, Anaconda, Docker, ROS, AWS  
+---
+
+## ➕ Extras:
+I’m passionate about developing creative solutions and learning new technologies.  
+Feel free to connect and collaborate! 😊
