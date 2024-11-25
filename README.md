@@ -27,9 +27,9 @@
 ---
 
 ## 👨🏻‍💻 Languages and Tools:
-- **Programming Languages**: Python, Java, C, JavaScript, SQL  
+- **Programming Languages**: Python, Java, C, JavaScript, SQL, ReactJS 
 - **Frameworks**: Django  
-- **Tools**: GitHub, Git, Anaconda, Docker, ROS, AWS  
+- **Tools**: GitHub, Git, AWS  
 ---
 
 ## ➕ Extras:
