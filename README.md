@@ -21,8 +21,8 @@
 ## 🚀 Projects:
 - 🛠️ **PasswordCheck**: A tool for people to test their password's strength.  
 - 🕹️ **Knots and Crosses**: Play a game of X and O's with a computer.  
-- 🌐 **ChatBot**: Learn about MMA with a personal chatboy.  
-- 🚩 **Finance Manager**: Intended to help group manager money in one app.  
+- 🌐 **ChatBot**: Learn about MMA with a personal chatbot.  
+- 🚩 **Finance Manager**: Intended to help a group manage money in one app.  
 
 ---
 
